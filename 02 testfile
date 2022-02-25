@@ -1,5 +1,13 @@
+#test1---Contact the local rep. to the remote rep.
 git push --set-upstream [alias] [branch]
+
+#test2---Check the instructions needed in a common step. 
+    #git add .
+    #git commit -m "discibtion"
+    #git push
 s1
 s2
 s3
 s....
+
+#test3---The function of...
