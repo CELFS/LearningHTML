@@ -1,3 +1,3 @@
-### A note
-A note for learning HTML.
-With some test of using GitHub, include this file.  :)
+### README
+Some notes and practices when I learnt HTML.
+Some test to use GitHub, include that file.  :)
